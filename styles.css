@@ -1,0 +1,70 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(240, 232, 226);
+}
+body{
+padding:30px;
+margin: 0;
+min-height: 100vh;
+min-height: 100dvh;
+background-image:url(images/coffeebg.jpg);
+background-repeat:no-repeat;
+background-position: center;
+background-size: cover;
+}
+.karte{
+width:80%;
+background-color: rgba(48, 39, 39, 0.842);
+margin-left:auto;
+margin-right: auto;
+padding: 20px;
+max-width: 500px;
+border: 2px solid whitesmoke;
+border-radius: 5px;
+}
+h1{
+color: whitesmoke;
+font-size: 45px;
+margin-top: 0;
+margin-bottom: 15px;
+text-align: center;
+border: 3px solid rgb(100, 84, 60);
+border-radius: 30px;;
+background-color: rgba(0, 0, 0, 0.445);
+}
+.mueb{
+font-style: italic;
+text-align: center;
+
+}
+
+.bottom-line{
+margin-top: 25px;
+}
+h2{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 30px;
+color: ghostwhite;
+border-bottom: 1px solid ghostwhite;
+}
+.artikel p{
+display: inline-block ;
+margin-top: 5px;
+margin-bottom: 5px;
+font-size: 18px;
+}
+.sorte{
+text-align: left;
+width: 75%;
+}
+.preis {
+text-align: right;
+width:25%;
+}
+.bottom-p{
+margin-top:15px;
+text-align: center;
+}
+
